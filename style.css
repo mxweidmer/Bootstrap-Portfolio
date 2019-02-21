@@ -1,0 +1,29 @@
+#footerLook {
+    background: #666666 !important;
+    color: #777777 !important;
+    border-top: 10px solid #4aaaa5 !important;
+    font-size: 0.75em !important;
+}
+
+#headerName {
+    background: #4aaaa5;
+    color: #ffffff;
+    height: 100%;
+    margin-top: 0%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.largeText {
+    font-family: "Georgia", "Times", "Times New Roman", "serif" !important;
+    font-weight: bold !important;
+    font-size: 2em !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+body {
+    margin: 0px;
+    font-size: 18px !important;
+    font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+    background-image: url(crossline-dots.png);
