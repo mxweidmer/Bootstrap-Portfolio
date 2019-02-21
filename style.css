@@ -32,3 +32,7 @@ body {
 .contTitle {
     color: #4aaaa5;
 }
+
+.inputWidth {
+    width: 100% !important;
+}
