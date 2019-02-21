@@ -15,3 +15,6 @@
 * HTML
 * CSS
 * Bootstrap
+
+### Credit to:
+https://www.toptal.com/designers/subtlepatterns/ for background
