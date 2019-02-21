@@ -27,3 +27,8 @@ body {
     font-size: 18px !important;
     font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
     background-image: url(crossline-dots.png);
+}
+
+.contTitle {
+    color: #4aaaa5;
+}
